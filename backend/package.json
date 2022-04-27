@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "checkpoint",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "body": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "parser": "^0.1.4"
   }
 }
